@@ -1,0 +1,11 @@
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkred;
+  color: white;
+  border-radius: 20px;
+  padding:9px;
+  margin-top: 10px;
+
+}
