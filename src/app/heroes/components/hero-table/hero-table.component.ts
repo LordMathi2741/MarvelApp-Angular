@@ -1,7 +1,7 @@
 import { Component, OnInit} from '@angular/core';
 import {MatTableModule} from "@angular/material/table";
-import {ApiFakeService} from "../../services/api-fake.service";
-import {Hero} from "../../models/hero.entity";
+import {ApiFakeService} from "../../service/api-fake.service";
+import {Hero} from "../../model/hero.entity";
 import {NgOptimizedImage} from "@angular/common";
 
 @Component({

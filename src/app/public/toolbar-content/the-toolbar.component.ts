@@ -5,7 +5,7 @@ import {MatIconButton} from "@angular/material/button";
 
 
 @Component({
-  selector: 'app-the-toolbar',
+  selector: 'app-toolbar-content',
   standalone: true,
   imports: [
     MatToolbar,
